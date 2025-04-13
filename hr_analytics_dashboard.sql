@@ -1,5 +1,5 @@
 
--- Employee Performance & HR Analytics SQL Script
+-- Employee Performance & HR Analytics 
 
 -- 1. Departments Table
 CREATE TABLE Departments (
